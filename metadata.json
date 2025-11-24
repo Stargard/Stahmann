@@ -1,0 +1,5 @@
+{
+  "name": "Soundcloud: Music Track Analyzer",
+  "description": "An application to analyze music tracks, generate ratings, metadata for platforms like Soundcloud, and create detailed prompts for generating cover art using AI.",
+  "requestFramePermissions": []
+}
